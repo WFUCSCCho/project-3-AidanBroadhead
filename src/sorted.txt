@@ -1,0 +1,305 @@
+--- Sorted Input => Sorted Output ---
+All of Me John Legend
+All Too Well Taylor Swift
+Arcade Duncan Laurence
+Astronaut In The Ocean Masked Wolf
+At My Worst (feat. Kehlani) Pink Sweat$
+Beautiful Mistakes (feat. Megan Thee Stallion) Maroon 5
+Before You Go Lewis Capaldi
+Beggin' Måneskin
+Believer Imagine Dragons
+Blinding Lights - 2019 The Weeknd
+Blinding Lights The Weeknd
+Circles Post Malone
+Cover Me In Sunshine P!nk & Willow Sage Hart
+Dance Monkey Tones And I
+Dance With Me Tonight Olly Murs
+Deja Vu Olivia Rodrigo
+Don't Start Now Dua Lipa
+Don't Start Now Dua Lipa
+Don't Stop Believin' Journey
+Downtown's Dead Sam Hunt
+drivers license Olivia Rodrigo
+drivers license Olivia Rodrigo
+DÁKITI Bad Bunny & Jhay Cortez
+Falling Harry Styles
+Famous Friends Chris Young + Kane Brown
+Fiel Los Legendarios Wisin & Jhay Cortez
+Forever After All Luke Combs
+Forever NLE Choppa
+Girls Like You (feat. Cardi B) Maroon 5
+Golden Harry Styles
+Good 4 U Olivia Rodrigo
+Happier Marshmello & Bastille
+Head & Heart (feat. MNEK) Joel Corry
+Heartbreak Anniversary Giveon
+Heat Waves - Diplo Remix Glass Animals
+Heat Waves Glass Animals
+Heather Conan Gray
+HIGHEST IN THE ROOM Travis Scott
+Hold On Justin Bieber
+Hold On Justin Bieber
+I Gotta Feeling Black Eyed Peas
+Kiss Me More (feat. SZA) Doja Cat
+Kiss Me More (feat. SZA) Doja Cat
+LA CANCIÓN J Balvin & Bad Bunny
+Leave The Door Open Silk Sonic
+Leave The Door Open Silk Sonic (Bruno Mars & Anderson .Paak)
+Levitating (feat. DaBaby) Dua Lipa
+Levitating - The Blessed Madonna Remix Dua Lipa
+Levitating Dua Lipa
+Levitating Dua Lipa feat. DaBaby
+Me Gusta Anitta Cardi B & Myke Towers
+Memories Maroon 5
+Montero (Call Me By Your Name) Lil Nas X
+Montero (Call Me By Your Name) Lil Nas X
+Mood (feat. iann dior) 24kGoldn
+Mood (feat. iann dior) 24kGoldn
+Mood Swings (feat. Lil Tjay) Pop Smoke
+My Universe Coldplay x BTS
+Need To Know Doja Cat
+Paradise (feat. Dermot Kennedy) MEDUZA
+París in the Rain Lauv
+Peaches (feat. Daniel Caesar & Giveon) Justin Bieber
+Peaches Justin Bieber feat. Daniel Caesar & Giveon
+Permission to Dance BTS
+Physical Dua Lipa
+Pretend CNCO
+Rapstar Polo G
+rockstar (feat. 21 Savage) Post Malone
+Save Your Tears The Weeknd
+Señorita Shawn Mendes & Camila Cabello
+Shallow Lady Gaga & Bradley Cooper
+Shape of You Ed Sheeran
+Shivers Ed Sheeran
+Somebody That I Used To Know Gotye feat. Kimbra
+Someone You Loved Lewis Capaldi
+Stay The Kid LAROI & Justin Bieber
+Stitches Shawn Mendes
+Stressed Out twenty one pilots
+Take Me To Church Hozier
+Talking to the Moon Acoustic Bruno Mars
+Talking to the Moon Bruno Mars
+telepatía Kali Uchis
+The Business Tiësto
+The Way You Look Tonight Frank Sinatra
+The Woo (feat. 50 Cent & Roddy Ricch) Pop Smoke
+Therefore I Am Billie Eilish
+Therefore I Am Billie Eilish
+Therefore I Am Billie Eilish
+Todo De Ti Rauw Alejandro
+Tusa KAROL G & Nicki Minaj
+Uptown Funk (feat. Bruno Mars) Mark Ronson
+Watermelon Sugar Harry Styles
+Watermelon Sugar Harry Styles
+We're Good Dua Lipa
+Without You (with Miley Cyrus) The Kid LAROI & Miley Cyrus
+Wolves Selena Gomez & Marshmello
+Yonaguni Bad Bunny
+Yonaguni Bad Bunny
+You Broke Me First Tate McRae
+You Right Doja Cat & The Weeknd
+
+--- Shuffled Input => Sorted Output ---
+All of Me John Legend
+All Too Well Taylor Swift
+Arcade Duncan Laurence
+Astronaut In The Ocean Masked Wolf
+At My Worst (feat. Kehlani) Pink Sweat$
+Beautiful Mistakes (feat. Megan Thee Stallion) Maroon 5
+Before You Go Lewis Capaldi
+Beggin' Måneskin
+Believer Imagine Dragons
+Blinding Lights - 2019 The Weeknd
+Blinding Lights The Weeknd
+Circles Post Malone
+Cover Me In Sunshine P!nk & Willow Sage Hart
+Dance Monkey Tones And I
+Dance With Me Tonight Olly Murs
+Deja Vu Olivia Rodrigo
+Don't Start Now Dua Lipa
+Don't Start Now Dua Lipa
+Don't Stop Believin' Journey
+Downtown's Dead Sam Hunt
+drivers license Olivia Rodrigo
+drivers license Olivia Rodrigo
+DÁKITI Bad Bunny & Jhay Cortez
+Falling Harry Styles
+Famous Friends Chris Young + Kane Brown
+Fiel Los Legendarios Wisin & Jhay Cortez
+Forever After All Luke Combs
+Forever NLE Choppa
+Girls Like You (feat. Cardi B) Maroon 5
+Golden Harry Styles
+Good 4 U Olivia Rodrigo
+Happier Marshmello & Bastille
+Head & Heart (feat. MNEK) Joel Corry
+Heartbreak Anniversary Giveon
+Heat Waves - Diplo Remix Glass Animals
+Heat Waves Glass Animals
+Heather Conan Gray
+HIGHEST IN THE ROOM Travis Scott
+Hold On Justin Bieber
+Hold On Justin Bieber
+I Gotta Feeling Black Eyed Peas
+Kiss Me More (feat. SZA) Doja Cat
+Kiss Me More (feat. SZA) Doja Cat
+LA CANCIÓN J Balvin & Bad Bunny
+Leave The Door Open Silk Sonic
+Leave The Door Open Silk Sonic (Bruno Mars & Anderson .Paak)
+Levitating (feat. DaBaby) Dua Lipa
+Levitating - The Blessed Madonna Remix Dua Lipa
+Levitating Dua Lipa
+Levitating Dua Lipa feat. DaBaby
+Me Gusta Anitta Cardi B & Myke Towers
+Memories Maroon 5
+Montero (Call Me By Your Name) Lil Nas X
+Montero (Call Me By Your Name) Lil Nas X
+Mood (feat. iann dior) 24kGoldn
+Mood (feat. iann dior) 24kGoldn
+Mood Swings (feat. Lil Tjay) Pop Smoke
+My Universe Coldplay x BTS
+Need To Know Doja Cat
+Paradise (feat. Dermot Kennedy) MEDUZA
+París in the Rain Lauv
+Peaches (feat. Daniel Caesar & Giveon) Justin Bieber
+Peaches Justin Bieber feat. Daniel Caesar & Giveon
+Permission to Dance BTS
+Physical Dua Lipa
+Pretend CNCO
+Rapstar Polo G
+rockstar (feat. 21 Savage) Post Malone
+Save Your Tears The Weeknd
+Señorita Shawn Mendes & Camila Cabello
+Shallow Lady Gaga & Bradley Cooper
+Shape of You Ed Sheeran
+Shivers Ed Sheeran
+Somebody That I Used To Know Gotye feat. Kimbra
+Someone You Loved Lewis Capaldi
+Stay The Kid LAROI & Justin Bieber
+Stitches Shawn Mendes
+Stressed Out twenty one pilots
+Take Me To Church Hozier
+Talking to the Moon Acoustic Bruno Mars
+Talking to the Moon Bruno Mars
+telepatía Kali Uchis
+The Business Tiësto
+The Way You Look Tonight Frank Sinatra
+The Woo (feat. 50 Cent & Roddy Ricch) Pop Smoke
+Therefore I Am Billie Eilish
+Therefore I Am Billie Eilish
+Therefore I Am Billie Eilish
+Todo De Ti Rauw Alejandro
+Tusa KAROL G & Nicki Minaj
+Uptown Funk (feat. Bruno Mars) Mark Ronson
+Watermelon Sugar Harry Styles
+Watermelon Sugar Harry Styles
+We're Good Dua Lipa
+Without You (with Miley Cyrus) The Kid LAROI & Miley Cyrus
+Wolves Selena Gomez & Marshmello
+Yonaguni Bad Bunny
+Yonaguni Bad Bunny
+You Broke Me First Tate McRae
+You Right Doja Cat & The Weeknd
+
+--- Reversed Input => Sorted Output ---
+All of Me John Legend
+All Too Well Taylor Swift
+Arcade Duncan Laurence
+Astronaut In The Ocean Masked Wolf
+At My Worst (feat. Kehlani) Pink Sweat$
+Beautiful Mistakes (feat. Megan Thee Stallion) Maroon 5
+Before You Go Lewis Capaldi
+Beggin' Måneskin
+Believer Imagine Dragons
+Blinding Lights - 2019 The Weeknd
+Blinding Lights The Weeknd
+Circles Post Malone
+Cover Me In Sunshine P!nk & Willow Sage Hart
+Dance Monkey Tones And I
+Dance With Me Tonight Olly Murs
+Deja Vu Olivia Rodrigo
+Don't Start Now Dua Lipa
+Don't Start Now Dua Lipa
+Don't Stop Believin' Journey
+Downtown's Dead Sam Hunt
+drivers license Olivia Rodrigo
+drivers license Olivia Rodrigo
+DÁKITI Bad Bunny & Jhay Cortez
+Falling Harry Styles
+Famous Friends Chris Young + Kane Brown
+Fiel Los Legendarios Wisin & Jhay Cortez
+Forever After All Luke Combs
+Forever NLE Choppa
+Girls Like You (feat. Cardi B) Maroon 5
+Golden Harry Styles
+Good 4 U Olivia Rodrigo
+Happier Marshmello & Bastille
+Head & Heart (feat. MNEK) Joel Corry
+Heartbreak Anniversary Giveon
+Heat Waves - Diplo Remix Glass Animals
+Heat Waves Glass Animals
+Heather Conan Gray
+HIGHEST IN THE ROOM Travis Scott
+Hold On Justin Bieber
+Hold On Justin Bieber
+I Gotta Feeling Black Eyed Peas
+Kiss Me More (feat. SZA) Doja Cat
+Kiss Me More (feat. SZA) Doja Cat
+LA CANCIÓN J Balvin & Bad Bunny
+Leave The Door Open Silk Sonic
+Leave The Door Open Silk Sonic (Bruno Mars & Anderson .Paak)
+Levitating (feat. DaBaby) Dua Lipa
+Levitating - The Blessed Madonna Remix Dua Lipa
+Levitating Dua Lipa
+Levitating Dua Lipa feat. DaBaby
+Me Gusta Anitta Cardi B & Myke Towers
+Memories Maroon 5
+Montero (Call Me By Your Name) Lil Nas X
+Montero (Call Me By Your Name) Lil Nas X
+Mood (feat. iann dior) 24kGoldn
+Mood (feat. iann dior) 24kGoldn
+Mood Swings (feat. Lil Tjay) Pop Smoke
+My Universe Coldplay x BTS
+Need To Know Doja Cat
+Paradise (feat. Dermot Kennedy) MEDUZA
+París in the Rain Lauv
+Peaches (feat. Daniel Caesar & Giveon) Justin Bieber
+Peaches Justin Bieber feat. Daniel Caesar & Giveon
+Permission to Dance BTS
+Physical Dua Lipa
+Pretend CNCO
+Rapstar Polo G
+rockstar (feat. 21 Savage) Post Malone
+Save Your Tears The Weeknd
+Señorita Shawn Mendes & Camila Cabello
+Shallow Lady Gaga & Bradley Cooper
+Shape of You Ed Sheeran
+Shivers Ed Sheeran
+Somebody That I Used To Know Gotye feat. Kimbra
+Someone You Loved Lewis Capaldi
+Stay The Kid LAROI & Justin Bieber
+Stitches Shawn Mendes
+Stressed Out twenty one pilots
+Take Me To Church Hozier
+Talking to the Moon Acoustic Bruno Mars
+Talking to the Moon Bruno Mars
+telepatía Kali Uchis
+The Business Tiësto
+The Way You Look Tonight Frank Sinatra
+The Woo (feat. 50 Cent & Roddy Ricch) Pop Smoke
+Therefore I Am Billie Eilish
+Therefore I Am Billie Eilish
+Therefore I Am Billie Eilish
+Todo De Ti Rauw Alejandro
+Tusa KAROL G & Nicki Minaj
+Uptown Funk (feat. Bruno Mars) Mark Ronson
+Watermelon Sugar Harry Styles
+Watermelon Sugar Harry Styles
+We're Good Dua Lipa
+Without You (with Miley Cyrus) The Kid LAROI & Miley Cyrus
+Wolves Selena Gomez & Marshmello
+Yonaguni Bad Bunny
+Yonaguni Bad Bunny
+You Broke Me First Tate McRae
+You Right Doja Cat & The Weeknd
